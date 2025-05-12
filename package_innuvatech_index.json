@@ -6,20 +6,20 @@
         "maintainer": "Innuvatech",
         "email": "finance@innuvatech.com",
         "help": {
-          "online": "https://github.com/InnuvatechArduino"
+          "online": "https://github.com/Innuvatech"
         },
         "platforms": [
           {
-            "name": "Innuvatech Patchugo Boards",
+            "name": "Patchugo Boards",
             "architecture": "stm32",
             "version": "0.0.1",
             "category": "Contributed",
-            "url": "https://github.com/InnuvatechArduino/STM32ArduinoBoards/archive/refs/tags/0.0.2.tar.gz",
-            "archiveFileName": "InnuvatechBoards-0.0.2.tar.bz2",
-            "checksum": "SHA-256:9E4DD90F0347A697785E25C43447E7B10D7DCE358277861E6DE11EE15686767B",
-            "size": "8808955",
+            "url": "https://github.com/Innuvatech/PatchugoBoards/archive/refs/tags/0.0.1.tar.gz",
+            "archiveFileName": "PatchugoBoards-0.0.1.tar.gz",
+            "checksum": "SHA-256:C07F3C025A6143B1672C7A66409B00FCEFD3AA8524A3F10AC70DBCB3D59F2F71",
+            "size": "17348327",
             "boards": [
-              {"name": "PatchugoOne"}
+              {"name": "PatchugoLite"}
             ],
             "toolsDependencies": [
               {
