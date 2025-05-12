@@ -16,8 +16,8 @@
             "category": "Contributed",
             "url": "https://github.com/Innuvatech/PatchugoBoards/archive/refs/tags/0.0.1.tar.gz",
             "archiveFileName": "PatchugoBoards-0.0.1.tar.gz",
-            "checksum": "SHA-256:60C813A62BAB3499232D6F5AB4AB7575348F53AAAF0C009A5315B8F688574C9A",
-            "size": "17348143",
+            "checksum": "SHA-256:C07F3C025A6143B1672C7A66409B00FCEFD3AA8524A3F10AC70DBCB3D59F2F71",
+            "size": "17348327",
             "boards": [
               {"name": "PatchugoLite"}
             ],
@@ -41,6 +41,11 @@
                 "packager": "Innuvatech",
                 "name": "STM32_SVD",
                 "version": "1.16.0"
+              },
+              {
+                "packager": "Innuvatech",
+                "name": "xpack-openocd",
+                "version": "0.12.0-6"
               }
             ]
           }
