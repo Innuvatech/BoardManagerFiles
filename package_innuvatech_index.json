@@ -12,52 +12,12 @@
           {
             "name": "Patchugo Boards",
             "architecture": "stm32",
-            "version": "0.0.3",
-            "category": "Contributed",
-            "url": "https://github.com/Innuvatech/PatchugoBoards/archive/refs/tags/0.0.3.tar.gz",
-            "archiveFileName": "PatchugoBoards-0.0.3.tar.gz",
-            "checksum": "SHA-256:22993F980D1057A06E021F4854FFD69FF45F6D8EC2031A57B2A291FD9E1C5E16",
-            "size": "8810613",
-            "boards": [
-              {"name": "PatchugoLite"}
-            ],
-            "toolsDependencies": [
-              {
-                "packager": "Innuvatech",
-                "name": "xpack-arm-none-eabi-gcc",
-                "version": "14.2.1-1.1"
-              },
-              {
-                "packager": "Innuvatech",
-                "name": "STM32Tools",
-                "version": "2.2.4"
-              },
-              {
-                "packager": "Innuvatech",
-                "name": "CMSIS",
-                "version": "5.9.0"
-              },
-              {
-                "packager": "Innuvatech",
-                "name": "STM32_SVD",
-                "version": "1.16.0"
-              },
-              {
-                "packager": "Innuvatech",
-                "name": "xpack-openocd",
-                "version": "0.12.0-6"
-              }
-            ]
-          },
-          {
-            "name": "Patchugo Boards",
-            "architecture": "stm32",
             "version": "0.0.2",
             "category": "Contributed",
             "url": "https://github.com/Innuvatech/PatchugoBoards/archive/refs/tags/0.0.2.tar.gz",
             "archiveFileName": "PatchugoBoards-0.0.2.tar.gz",
-            "checksum": "SHA-256:057B0B7C1085798B86CD8DE9F6B99327AB7C4607ADA918D1C391C6DC4D0D2701",
-            "size": "8810607",
+            "checksum": "SHA-256:CB90F512D440F695A8C70FE52DDEBCCC68297ACB8DA11CCCC37A5D150294F777",
+            "size": "8809955",
             "boards": [
               {"name": "PatchugoLite"}
             ],
