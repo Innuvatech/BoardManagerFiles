@@ -12,12 +12,12 @@
           {
             "name": "Patchugo Boards",
             "architecture": "stm32",
-            "version": "0.0.2",
+            "version": "0.0.3",
             "category": "Contributed",
-            "url": "https://github.com/Innuvatech/PatchugoBoards/archive/refs/tags/0.0.2.tar.gz",
-            "archiveFileName": "PatchugoBoards-0.0.2.tar.gz",
-            "checksum": "SHA-256:057B0B7C1085798B86CD8DE9F6B99327AB7C4607ADA918D1C391C6DC4D0D2701",
-            "size": "8810607",
+            "url": "https://github.com/Innuvatech/PatchugoBoards/archive/refs/tags/0.0.3.tar.gz",
+            "archiveFileName": "PatchugoBoards-0.0.3.tar.gz",
+            "checksum": "SHA-256:22993F980D1057A06E021F4854FFD69FF45F6D8EC2031A57B2A291FD9E1C5E16",
+            "size": "8810613",
             "boards": [
               {"name": "PatchugoLite"}
             ],
