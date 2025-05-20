@@ -48,6 +48,86 @@
                 "version": "0.12.0-6"
               }
             ]
+          },
+          {
+            "name": "Patchugo Boards",
+            "architecture": "stm32",
+            "version": "0.0.2",
+            "category": "Contributed",
+            "url": "https://github.com/Innuvatech/PatchugoBoards/archive/refs/tags/0.0.2.tar.gz",
+            "archiveFileName": "PatchugoBoards-0.0.2.tar.gz",
+            "checksum": "SHA-256:057B0B7C1085798B86CD8DE9F6B99327AB7C4607ADA918D1C391C6DC4D0D2701",
+            "size": "8810607",
+            "boards": [
+              {"name": "PatchugoLite"}
+            ],
+            "toolsDependencies": [
+              {
+                "packager": "Innuvatech",
+                "name": "xpack-arm-none-eabi-gcc",
+                "version": "14.2.1-1.1"
+              },
+              {
+                "packager": "Innuvatech",
+                "name": "STM32Tools",
+                "version": "2.2.4"
+              },
+              {
+                "packager": "Innuvatech",
+                "name": "CMSIS",
+                "version": "5.9.0"
+              },
+              {
+                "packager": "Innuvatech",
+                "name": "STM32_SVD",
+                "version": "1.16.0"
+              },
+              {
+                "packager": "Innuvatech",
+                "name": "xpack-openocd",
+                "version": "0.12.0-6"
+              }
+            ]
+          },
+           {
+            "name": "Patchugo Boards",
+            "architecture": "stm32",
+            "version": "0.0.1",
+            "category": "Contributed",
+            "url": "https://github.com/Innuvatech/PatchugoBoards/archive/refs/tags/0.0.1.tar.gz",
+            "archiveFileName": "PatchugoBoards-0.0.1.tar.gz",
+            "checksum": "SHA-256:C07F3C025A6143B1672C7A66409B00FCEFD3AA8524A3F10AC70DBCB3D59F2F71",
+            "size": "17348327",
+            "boards": [
+              {"name": "PatchugoLite"}
+            ],
+            "toolsDependencies": [
+              {
+                "packager": "Innuvatech",
+                "name": "xpack-arm-none-eabi-gcc",
+                "version": "14.2.1-1.1"
+              },
+              {
+                "packager": "Innuvatech",
+                "name": "STM32Tools",
+                "version": "2.2.4"
+              },
+              {
+                "packager": "Innuvatech",
+                "name": "CMSIS",
+                "version": "5.9.0"
+              },
+              {
+                "packager": "Innuvatech",
+                "name": "STM32_SVD",
+                "version": "1.16.0"
+              },
+              {
+                "packager": "Innuvatech",
+                "name": "xpack-openocd",
+                "version": "0.12.0-6"
+              }
+            ]
           }
         ],
         "tools": [
