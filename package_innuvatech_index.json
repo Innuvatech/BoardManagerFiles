@@ -16,8 +16,8 @@
             "category": "Contributed",
             "url": "https://github.com/Innuvatech/PatchugoBoards/archive/refs/tags/0.0.3.tar.gz",
             "archiveFileName": "PatchugoBoards-0.0.3.tar.gz",
-            "checksum": "SHA-256:E774C00CC33DD20B4CF041EE0D3B4A2A2D95D12E267C26ED5FE67DBDA975A344",
-            "size": "5700537",
+            "checksum": "SHA-256:160B9561D801CF48D28176081458CD3580D2001BC63EA0455BC1874EAB8DB0B8",
+            "size": "5700530",
             "boards": [
               {"name": "PatchugoLite"}
             ],
