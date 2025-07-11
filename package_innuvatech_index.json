@@ -12,52 +12,12 @@
           {
             "name": "Patchugo Boards",
             "architecture": "stm32",
-            "version": "0.0.3",
+            "version": "1.0.0",
             "category": "Contributed",
-            "url": "https://github.com/Innuvatech/PatchugoBoards/archive/refs/tags/0.0.3.tar.gz",
-            "archiveFileName": "PatchugoBoards-0.0.3.tar.gz",
-            "checksum": "SHA-256:160B9561D801CF48D28176081458CD3580D2001BC63EA0455BC1874EAB8DB0B8",
-            "size": "5700530",
-            "boards": [
-              {"name": "PatchugoLite"}
-            ],
-            "toolsDependencies": [
-              {
-                "packager": "Innuvatech",
-                "name": "xpack-arm-none-eabi-gcc",
-                "version": "14.2.1-1.1"
-              },
-              {
-                "packager": "Innuvatech",
-                "name": "STM32Tools",
-                "version": "2.2.4"
-              },
-              {
-                "packager": "Innuvatech",
-                "name": "CMSIS",
-                "version": "5.9.0"
-              },
-              {
-                "packager": "Innuvatech",
-                "name": "STM32_SVD",
-                "version": "1.16.0"
-              },
-              {
-                "packager": "Innuvatech",
-                "name": "xpack-openocd",
-                "version": "0.12.0-6"
-              }
-            ]
-          },
-           {
-            "name": "Patchugo Boards",
-            "architecture": "stm32",
-            "version": "0.0.1",
-            "category": "Contributed",
-            "url": "https://github.com/Innuvatech/PatchugoBoards/archive/refs/tags/0.0.1.tar.gz",
-            "archiveFileName": "PatchugoBoards-0.0.1.tar.gz",
-            "checksum": "SHA-256:60C813A62BAB3499232D6F5AB4AB7575348F53AAAF0C009A5315B8F688574C9A",
-            "size": "17348143",
+            "url": "https://github.com/Innuvatech/PatchugoBoards/archive/refs/tags/1.0.0.tar.gz",
+            "archiveFileName": "PatchugoBoards-1.0.0.tar.gz",
+            "checksum": "SHA-256:1CB5E1B4C8AC736E19C8B6A20E5A888D50A85ED9D94F54513AC1D0D0C4C3F11A",
+            "size": "5700561",
             "boards": [
               {"name": "PatchugoLite"}
             ],
